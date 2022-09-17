@@ -2,4 +2,4 @@ This repository is to study a variety of algorithms following this post 😊(htt
 
 # PART1: Preparation
  - Divisor
-  - URL: https://www.acmicpc.net/problem/2501
+   - URL: https://www.acmicpc.net/problem/2501
